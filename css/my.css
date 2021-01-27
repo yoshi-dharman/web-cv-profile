@@ -44,7 +44,7 @@ h3 {
 }
 
 .bottom {
-	position: relative;
+	position: fixed;
 	bottom: 0;
 }
 
